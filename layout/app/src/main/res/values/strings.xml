@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="title_activity_lista_basica">ListaBasica</string>
+    <string name="title_activity_lista_customizada">ListaCustomizada</string>
+    <string name="title_activity_detalhe_contato">DetalheContato</string>
+</resources>

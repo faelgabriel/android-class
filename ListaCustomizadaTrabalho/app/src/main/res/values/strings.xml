@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaCustomizadaTrabalho</string>
+    <string name="title_activity_lista_main">ListaMainActivity</string>
+    <string name="title_activity_detalhe_presente">DetalhePresente</string>
+</resources>
